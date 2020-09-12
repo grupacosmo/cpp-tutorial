@@ -1,5 +1,5 @@
 ##### Wiktor Więcław 
-# Wprowadzenie do języka C++ część 2 wersja 1.0.0
+# Wprowadzenie do języka C++ część 2
 
 ## Przeciążanie funkcji (Function overloading)
 Przeciążanie funkcji jest to stworzenie nowej funkcji o takiej samej nazwie. Funkcje muszą różnić się typem lub liczbą przyjmowanych argumentów.
