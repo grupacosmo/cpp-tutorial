@@ -1,5 +1,5 @@
 ##### Wiktor Więcław 
-# Wprowadzenie do języka C++ część 3 wersja 1.0.0
+# Wprowadzenie do języka C++ część 3
 
 ## Szablony funkcji (Function templates)
 Załóżmy że chcemy stworzyć funkcję ```max```, która porównuje dwie liczby lub obiekty i zwraca większy z nich. Gdybyśmy chcieli skorzystać wyłącznie z przeciążania funkcji to musielibyśmy zaimplementować oddzielne przeciążenie dla każdego typu.
