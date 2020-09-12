@@ -67,3 +67,10 @@ int main()
 }
 ```
 Jeżeli chcemy móc zmienić naszą zmienną zadeklarowaną w funkcji ```main``` wewnątrz innej funkcji powinniśmy przekazywać ją poprzez referencję.
+
+## Przekazywanie do odczytu
+Jeżeli przekazujemy obiekt, którego nie chcemy edytować wewnątrz funkcji, powinniśmy również skorzystać z przekazywania przez referencje, ponieważ jest ono szybsze niż przekazywanie przez kopię. Należy pamiętać o użyciu ```const```. W przypadku przekazywania zmiennych prymitywnych nie jest to konieczne, można po prostu przekazać taką zmienną przez kopię.
+```c++
+void func(const MyClass &object);
+```
+
