@@ -53,5 +53,4 @@ int main()
 }
 ```
 
-## Podsumowanie
 Jak widać, wszystkie mechanizmy, o których mówiliśmy do tej pory, są wykorzystywane w najbardziej podstawowych elementach standardowej bilbioteki języka C++.
