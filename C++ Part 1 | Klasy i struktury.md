@@ -1,7 +1,6 @@
 ##### Wiktor Więcław 
-# Wprowadzenie do języka C++ część 1 wersja 1.0
-# 
-# 
+# Wprowadzenie do języka C++ część 1
+
 ## Wstęp
 Niniejszy poradnik zakłada, że czytelnik zna język C na poziomie podstawowym. C++ został domyślnie stworzony jako rozszerzenie języka C, zatem wspiera jego biblioteki. Można np. dodać do programu bibliotekę ```<stdio.h>``` i wypisać zmienną na ekran za pomocą funkcji ```printf```. Należy mieć na uwadze, że C++ posiada swoje własne biblioteki, których powinno się korzystać, ale powiemy o nich w poźniejszych częściach poradnika.
 
