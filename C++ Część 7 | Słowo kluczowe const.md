@@ -101,8 +101,8 @@ Stwórzmy teraz metodę zwracającą długość wektora. Metoda ta nie będzie z
 double get_length() const
 {
   // wykorzystany tutaj został wzór na długość wektora
-  double a = (point_2.first - point_1.first);
-  double b = (point_2.second - point_1.second);
+  const double a = (point_2.first - point_1.first);
+  const double b = (point_2.second - point_1.second);
   return sqrt(a*a - b*b);
 }
 ```
