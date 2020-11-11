@@ -119,8 +119,7 @@ struct Square
 ```
 
 ### Podsumowanie
-* Język C++ nie jest w pełni kompatybilny z językiem C.
-* Wyróżniamy typy prymitywne oraz stworzone przez programistów.
+* Wyróżniamy typy prymitywne oraz typy zdefiniowane przez użytkowników języka.
 * Struktury pozwalają na tworzenie własnych typów.
 * Konstruktor pozwala na inicjalizację obiektu.
 * Destruktor umożliwia automatyczne niszczenie obiektu.
