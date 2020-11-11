@@ -1,12 +1,6 @@
 ##### Wiktor Więcław 
 # Wprowadzenie do języka C++ część 1
 
-## Wstęp
-Niniejszy poradnik zakłada, że czytelnik zna język C na poziomie podstawowym.
-
-## Kompatybilność z C
-C++ nie jest całkowicie kompatybilny z językiem C. Istnieją pewne różnice między tymi językami, przez które kod napisany w C może prowadzić do odmiennych rezultatów w języku C++ lub do błędu kompilacji.
-
 ## Typy prymitywne (Primitive types)
 Typy takie jak ```int```, ```float```, ```double```, ```char```, ```bool``` nazywamy typami prymitywnymi.
 
