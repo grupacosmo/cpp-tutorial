@@ -115,7 +115,7 @@ struct Square
        b = sideB;
     }
     
-    ~Square() = default // jawnie zadeklarowany destruktor domyślny
+    ~Square() = default // jawna deklaracja destruktora domyślnego
     
     double area()
     {
@@ -125,7 +125,7 @@ struct Square
 ```
 
 ### Podsumowanie
-* Język c++ nie jest w pełni kompatybilny z językiem C.
+* Język C++ nie jest w pełni kompatybilny z językiem C.
 * Wyróżniamy typy prymitywne oraz stworzone przez programistów.
 * Struktury pozwalają na tworzenie własnych typów.
 * Konstruktor pozwala na inicjalizację obiektu.
