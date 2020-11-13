@@ -1,5 +1,5 @@
 ##### Wiktor Więcław 
-#  C++ Część 9 | Standard Library
+# C++ Część 09 | Standard Library
 
 ## Wstęp
 W tej części poradnika przyjrzymy się niektórym elementom wchodzącym w skład biblioteki standardowej i zobaczymy jak wykorzystują one funkcjonalności języka C++, o których mówiliśmy w poprzednich częściach.

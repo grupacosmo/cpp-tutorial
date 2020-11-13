@@ -1,5 +1,5 @@
 ##### Wiktor Więcław 
-# C++ Część 1 | Początek
+# C++ Część 01 | Początek
 
 ## Cel
 Poradnik ten powstał w celu wprowadzenia nowych członków koła COSMO PK do programowania w języku C++. Składa się on z 12 części tekstowych oraz  [playlisty](https://www.youtube.com/playlist?list=PLODTTsk7ci-DdMLwsjcGSGTyoK4-0X17X) na platformie youtube.

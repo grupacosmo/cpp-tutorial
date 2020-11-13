@@ -1,5 +1,5 @@
 ##### Wiktor Więcław 
-# C++ Część 5 | Modyfikator const
+# C++ Część 05 | Modyfikator const
 
 ## Modyfikator const
 Bardzo ważne w programowaniu w języku C++ jest używanie ```const``` wszędzie gdzie jest to możliwe.

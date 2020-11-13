@@ -1,5 +1,5 @@
 ##### Wiktor Więcław 
-# C++ Część 8 | Szablony
+# C++ Część 08 | Szablony
 
 ## Szablony funkcji (Function templates)
 Załóżmy że chcemy stworzyć funkcję ```max```, która porównuje dwie liczby i zwraca większą z nich. Gdybyśmy chcieli aby nasza funkcja przyjmowała różne typy, np. ```int```, ```double```, ```short``` to korzystając z przeciążania funcji musielibyśmy zaimplementować trzy niemal identyczne funkcje.

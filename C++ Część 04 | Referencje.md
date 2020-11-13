@@ -1,5 +1,5 @@
 ##### Wiktor Więcław 
-# C++ Część 4 | Referencje
+# C++ Część 04 | Referencje
 
 ## Wskaźnik (Pointer)
 Jak zapewne wiesz, wskaźnik jest to zmienna przechowująca adres do innej zmiennej. Można powiedzieć, że wskaźnik jest to po prostu liczba, która jest interpretowana jako adres.

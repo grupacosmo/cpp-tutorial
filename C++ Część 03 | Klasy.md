@@ -1,5 +1,5 @@
 ##### Wiktor Więcław 
-# C++ Część 3 | Klasy
+# C++ Część 03 | Klasy
 
 ## Klasa (Class)
 Klasy, podobnie jak struktury, pozwalają nam tworzenie nowych typów.

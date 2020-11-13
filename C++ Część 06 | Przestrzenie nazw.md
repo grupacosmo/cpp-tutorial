@@ -1,5 +1,5 @@
 ##### Wiktor Więcław 
-# C++ Część 6 | Przestrzenie nazw
+# C++ Część 06 | Przestrzenie nazw
 
 ## Przestrzenie nazw (Namespaces)
 Możemy wykorzystywać przestrzenie nazw do unikania konfliktów nazw oraz do grupowania zmiennych globalnych, klas oraz funkcji. 
