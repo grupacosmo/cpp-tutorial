@@ -4,10 +4,11 @@
 ## Cel
 Poradnik ten powstał w celu wprowadzenia nowych członków koła COSMO PK do programowania w języku C++. Składa się on z 12 części tekstowych oraz  [playlisty](https://www.youtube.com/playlist?list=PLODTTsk7ci-DdMLwsjcGSGTyoK4-0X17X) na platformie youtube.
 
-Części tekstowe obejmują podstawy języka, natomiast playlista odnosi się do jego bardziej zaawansowanych funkcjonalności.
+Części tekstowe obejmują podstawy języka, natomiast playlista odnosi się do jego bardziej zaawansowanych własności.
 
 ## Założenia
-Odbiorca zna język C na poziomie podstawowym.
+* Odbiorca zna język C na poziomie podstawowym.
+* W poradniku nie przewidziano żadnych zadań, oczekuje się od odbiorcy, że na bierząco będzie samodzielnie testował nowo poznazne funkcjonalności.
 
 ## Wersja C++
 Poradnik został napisany w oparciu o wersję C++17.
